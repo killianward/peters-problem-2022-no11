@@ -1,0 +1,6 @@
+Each letter stands for a different digit. Find the number represented by CARE in the following addition problem:
+
+      E R R
+    + E R R
+    -------
+    C A R E
